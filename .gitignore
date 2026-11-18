@@ -1,14 +1,11 @@
-# Compilación Java y archivos generados por BlueJ
 *.class
 *.ctxt
 bluej.pkh
 /build/
 /out/
 
-# Datos de ejecución (pueden contener información de clientes)
 /datos/
 
-# Temporales y preferencias locales
 *.bak
 *.tmp
 *.log
